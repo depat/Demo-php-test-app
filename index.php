@@ -15,10 +15,10 @@
     <body>
         <div class="container">
             <div class="hero-unit">
-                <h1>Simple PHP App</h1>
+                <h1>Test PHP App</h1>
                 <h2>Congratulations!</h2>
-                <p>Your PHP application is now running on the host &ldquo;<?php echo gethostname(); ?>&rdquo; in your own dedicated environment in the AWS&nbsp;Cloud.</p>
-                <p>This host is running PHP version <?php echo phpversion(); ?>.</p>
+                <p>Your PHP application 'myphpapp' is now  deployed on the host &ldquo;<?php echo gethostname(); ?>&rdquo; in its own dedicated AWS Cloud Staging Environment.</p>
+
             </div>
         </div>
 
