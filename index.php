@@ -17,7 +17,7 @@
             <div class="hero-unit">
                 <h1>Test PHP App</h1>
                 <h2>Congratulations!</h2>
-                <p>Your PHP application 'myphpapp' is now  deployed on the host &ldquo;<?php echo gethostname(); ?>&rdquo; in its own dedicated AWS Cloud Staging Environment.</p>
+                <p>Your PHP application 'myphpapp' is now  deployed on the host: &ldquo;<?php echo gethostname(); ?>&rdquo; in AWS Cloud Environment.</p>
 
             </div>
         </div>
